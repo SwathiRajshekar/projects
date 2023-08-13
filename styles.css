@@ -1,0 +1,58 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+}
+
+.top-div {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.top-div h1 {
+    font-size: 24px;
+}
+
+.top-div p {
+    font-size: 16px;
+}
+
+.top-div a {
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.image-section {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.image-section img {
+    max-width: 100%;
+    height: auto;
+}
+
+.trivia-section {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.trivia-section h2 {
+    font-size: 20px;
+}
+
+.trivia-section ol {
+    list-style-type: decimal;
+    font-size: 16px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
